@@ -1,7 +1,12 @@
-# Hi, ich bin Daniel 👋
-Ich studiere Informatik (B.Sc.) an der HDA
+## Hallo,
+- ich bin Daniel Emmerich
+- Ich studiere Informatik (B.Sc.) an der HDA
+- Ich nutzte Diesen Account um meine gelernten Module aus dem studium in Projekten zu vertiefen
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielEmmerich-code&show_icons=true)
+### Wie du mich erreichst:
+E-Mail = danielemmerich@outlook.de
+
+
 
 <!--
 **DanielEmmerich-code/DanielEmmerich-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
