@@ -1,9 +1,7 @@
-## Hallo,
-- Ich bin Daniel Emmerich
-- Ich studiere Informatik (B.Sc.) an der HDA
+## Hi
+- my Name is Daniel
+- i use this account to deepen the learning's from the courses at my collage
 
-### Wie du mich erreichst:
-E-Mail = danielemmerich@outlook.de
 
 
 
