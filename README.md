@@ -1,7 +1,6 @@
 ## Hallo,
 - Ich bin Daniel Emmerich
 - Ich studiere Informatik (B.Sc.) an der HDA
-- Ich nutzte diesen Account um meine gelernten Module aus dem Studium in Projekten zu vertiefen
 
 ### Wie du mich erreichst:
 E-Mail = danielemmerich@outlook.de
